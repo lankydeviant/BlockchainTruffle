@@ -1,0 +1,1 @@
+This is a small Hackathon project where we try to work out the benefits (potential at least) of applying a block chain design pattern to a an existing process in the company
